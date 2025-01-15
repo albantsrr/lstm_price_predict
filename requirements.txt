@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+datetime
+scikit-learn
+keras
+pandas-datareader
+yfinance

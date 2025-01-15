@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Environnements virtuels
+lstm_venv/
+venv/
+env/
+ENV/
+.venv/
+*.egg-info/
+
+# Fichiers de configuration
+*.env
+*.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Autres fichiers temporaires
+*.tmp
+*.temp
